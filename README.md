@@ -1,2 +1,6 @@
 # passwords
-My password, DON'T READ WITHOUT PERMISSIONS
+My passwords, DON'T READ WITHOUT PERMISSIONS
+
+Discord password: `mods r qt`
+Glitch: `my bot hoster`
+Heroku: `my second bot hoster`
